@@ -1,4 +1,4 @@
-# -Forex-Rate-Projections-Sentiment-Analysis-for-Risk-Stability-
+# Forex Rate Projections Sentiment Analysis for Risk Stability
 
 ### Introduction
 
