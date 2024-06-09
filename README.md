@@ -32,7 +32,7 @@ The forex market is a vital global financial hub enabling currency exchange and 
 
 ●	Risk analysis model effectively assesses currency growth dynamics over 5 and 12 weeks.
 
-• Japanese Yen's stability and consistent growth make it attractive to investors with moderate risk tolerance, offering steady long-term prospects.
+●	Japanese Yen's stability and consistent growth make it attractive to investors with moderate risk tolerance, offering steady long-term prospects.
 
 
 ### Presentation:
