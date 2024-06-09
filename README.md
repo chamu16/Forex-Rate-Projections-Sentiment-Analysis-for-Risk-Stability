@@ -1,5 +1,11 @@
 # Forex Rate Projections Sentiment Analysis for Risk Stability
 
+## Dataset
+
+https://www.kaggle.com/datasets/asaniczka/forex-exchange-rate-since-2004-updated-daily/data
+
+
+
 ## Introduction
 
 The forex market is a vital global financial hub enabling currency exchange and rate determination, pivotal for international trade and investments. Data since August 2004, covering 170 currencies, has grown due to geopolitics, monetary policies, and evolving data methods. New nations and policy reforms introduce currencies, affecting rates and market dynamics. Improved data techniques unveil new currencies, expanding insights into forex trends. Analyzing exchange rates, currency availability, and market sentiments aids decision-making for policymakers, investors, and market participants, enhancing forex market understanding and effectiveness.
