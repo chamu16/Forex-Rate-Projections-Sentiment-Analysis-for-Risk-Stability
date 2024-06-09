@@ -38,6 +38,3 @@ The forex market is a vital global financial hub enabling currency exchange and 
 ### Presentation:
 
 https://www.canva.com/design/DAGC1xh0qD8/k3bNnzCZJotUptqi_2H6hQ/edit?utm_content=DAGC1xh0qD8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-
-
