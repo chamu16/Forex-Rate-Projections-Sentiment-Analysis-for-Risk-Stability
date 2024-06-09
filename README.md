@@ -1,12 +1,12 @@
 # Forex Rate Projections Sentiment Analysis for Risk Stability
 
-### Introduction
+## Introduction
 
 The forex market is a vital global financial hub enabling currency exchange and rate determination, pivotal for international trade and investments. Data since August 2004, covering 170 currencies, has grown due to geopolitics, monetary policies, and evolving data methods. New nations and policy reforms introduce currencies, affecting rates and market dynamics. Improved data techniques unveil new currencies, expanding insights into forex trends. Analyzing exchange rates, currency availability, and market sentiments aids decision-making for policymakers, investors, and market participants, enhancing forex market understanding and effectiveness.
 
 
 
-### Objective
+## Objective
 
 ●	Enhancing financial crisis detection and management through refined mechanisms for forecasting volatility in Euro-pegged currency exchange rates.
 
@@ -18,7 +18,7 @@ The forex market is a vital global financial hub enabling currency exchange and 
 
 
 
-### Results and Discussions
+## Results and Discussions
 
 ●	Currencies like ARS, AZN, BDT, LYD, SDG, UAH, VEF, and VES highlight global economic challenges due to past financial crises.
 
@@ -35,6 +35,6 @@ The forex market is a vital global financial hub enabling currency exchange and 
 ●	Japanese Yen's stability and consistent growth make it attractive to investors with moderate risk tolerance, offering steady long-term prospects.
 
 
-### Presentation:
+## Presentation:
 
 https://www.canva.com/design/DAGC1xh0qD8/k3bNnzCZJotUptqi_2H6hQ/edit?utm_content=DAGC1xh0qD8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
